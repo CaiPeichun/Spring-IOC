@@ -9,6 +9,8 @@ spring-ioc.doc文档为练习中出现的错误和解决办法。<br>
 6.bean的生命周期<br>
 
 笔记：关于bean的生命周期<br>
+参考：https://blog.csdn.net/lisongjia123/article/details/52091013<br>
+https://www.cnblogs.com/xrq730/p/6363055.html<br>
 ![Image text](https://raw.githubusercontent.com/CaiPeichun/Spring-IOC/master/img/%E5%9B%BE%E7%89%871.png)
 ![Image text](https://raw.githubusercontent.com/CaiPeichun/Spring-IOC/master/img/%E5%9B%BE%E7%89%872.png)
 ![Image text](https://raw.githubusercontent.com/CaiPeichun/Spring-IOC/master/img/%E5%9B%BE%E7%89%873.png)
